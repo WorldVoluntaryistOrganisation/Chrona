@@ -16,13 +16,11 @@ Chrona applies equally to all, transcending borders, cultures, and belief system
 It serves as a global timekeeping standard for individuals, communities, and societies embracing freedom and autonomy.
 
 
-
 2. Aligned with Nature:
 
 Anchored in the natural rhythms of the Earth, including the solstices, equinoxes, and lunar cycles.
 
 Its structure reflects the balance and consistency of the natural world.
-
 
 
 3. Simplified and Equal:
@@ -32,15 +30,11 @@ Thirteen months of 28 days ensure each month is equal in length.
 Additional days, Solstice Day and Leap Solstice Day, exist outside the monthly cycle, creating a consistent and predictable calendar.
 
 
-
 4. Free from Control:
 
 Chrona eliminates ties to political, religious, or centralized institutions.
 
 It empowers individuals to live by a calendar unshackled from historical power structures.
-
-
-
 
 
 ---
@@ -53,19 +47,15 @@ Year Length:
 
 **366 days** in leap years, aligned with astronomical events.
 
-
 Months:
 
 **13 months of 28 days**, each named to reflect natural cycles and universal themes.
-
 
 Special Days:
 
 Solstice Day: Marks the end of each year.
 
-Leap Solstice Day: Added every four years to synchronize with astronomical cycles.
-
-
+Leap Year Day: Added every four years to synchronize with astronomical cycles.
 
 
 ---
