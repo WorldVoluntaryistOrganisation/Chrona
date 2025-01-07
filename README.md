@@ -5,7 +5,7 @@ In a world striving for freedom, unity, and harmony, the Chrona Calendar emerges
 
 ---
 
-Why Chrona?
+## Why Chrona?
 
 The Gregorian calendar, the current global standard, is burdened with historical biases, uneven structures, and religious overtones. Chrona replaces this legacy with a system that is:
 
@@ -45,18 +45,18 @@ It empowers individuals to live by a calendar unshackled from historical power s
 
 ---
 
-The Structure of Chrona
+## The Structure of Chrona
 
 Year Length:
 
-365 days in standard years.
+**365 days** in standard years.
 
-366 days in leap years, aligned with astronomical events.
+**366 days** in leap years, aligned with astronomical events.
 
 
 Months:
 
-13 months of 28 days, each named to reflect natural cycles and universal themes.
+**13 months of 28 days**, each named to reflect natural cycles and universal themes.
 
 
 Special Days:
@@ -70,7 +70,7 @@ Leap Solstice Day: Added every four years to synchronize with astronomical cycle
 
 ---
 
-A Calendar for the New Free World
+## A Calendar for the New Free World
 
 Chrona is more than a calendar—it is a declaration of independence from the constraints of the past. It embodies the principles of freedom, equality, and harmony with the natural world. In the New Free World, Chrona serves as a unifying timekeeping system that reflects humanity’s shared connection to the cosmos.
 
@@ -80,9 +80,9 @@ Let Chrona guide us into the future—a future where time is measured not by rul
 
 
 ---
-Time Keeping
+## Time Keeping
 
-Chrona divides the day into 24 hours, each hour into 60 minutes, and each minute into 60 seconds. This system of timekeeping is consistent with the current global standard and ensures compatibility with existing technologies and practices.
+Chrona divides the day into **24 hours**, each hour into **60 minutes**, and each minute into **60 seconds**. This system of timekeeping is consistent with the current global standard and ensures compatibility with existing technologies and practices.
 
 There are no Daylight Saving Time adjustments in Chrona, as it maintains a fixed and stable relationship with the natural cycles of the Earth.
 
@@ -90,6 +90,6 @@ Chrona time is based on the Coordinated Universal Time (UTC) standard for timeke
 
 
 ---
-Timezones
+## Timezones
 
 Chrona does not dictate time zones, allowing individuals and communities to determine their local time based on their geographic location and lifestyle preferences.
